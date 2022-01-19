@@ -1,0 +1,9 @@
+.tareas{
+    width:50%;
+    border-radius: 10px;
+    border: mediumblue;
+    background-image: linear-gradient(to right, rgb(170, 228, 255) , rgb(0, 68, 255));
+    box-shadow: 1px 2px #00043f;
+    margin-left: 25%;
+    margin-bottom: 10px;
+}
